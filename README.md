@@ -54,14 +54,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bhaglokesh&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaglokesh&layout=compact&theme=default&hide_border=true&langs_count=6"/>
-</p>
-
----
 
 <p align="center">
   <i>Open to work — let's build something useful together.</i>
