@@ -11,7 +11,7 @@
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
----
+
 
 ### About Me
 
@@ -21,7 +21,7 @@
 - 💼 Open to SDE internships and full-time roles
 - 🧩 Solved 150+ DSA problems on LeetCode (60%+ on Med/Hard)
 
----
+
 
 ### Tech Stack
 
